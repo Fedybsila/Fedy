@@ -1,0 +1,111 @@
+<body
+body
+{
+    background-color: whitesmoke;
+    font-family: "Gill Sans", sans-serif;
+}
+
+main
+{
+    border: 3px solid white;
+    padding: 20px;
+    margin: auto;
+    width: 70%;
+    height: 800px;
+    border-radius: 8px;
+    background-color: lightgrey;
+}
+
+header
+{
+    height: 100px;
+}
+
+.c1
+{
+    margin: auto;
+    width: 47%;
+    height: 100px;
+    float: left;
+}
+.c2
+{
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin: auto;
+    width: 47%;
+    height: 100px;
+    float: right;
+
+}
+
+.img1
+{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.s1
+
+.c3
+{
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.c4
+{
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 75%;
+    height: 200px;
+    float: right;
+}
+.c5
+{
+    border: 3px solid grey;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.c6
+{
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 75%;
+    height: 200px;
+    float: right;
+}
+.c7
+{
+    border: 3px solid grey;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.c8
+{
+    border: 3px solid black;
+    padding: 5px;
+    border-radius: 8px;
+    margin: auto;
+    width: 75%;
+    height: 200px;
+    float: right;
+}
